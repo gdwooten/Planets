@@ -1,4 +1,4 @@
 my first line in the Git repository
 here is my new change
-3rd line
+3rd line of changes
 I did a different change
