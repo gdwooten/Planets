@@ -1,1 +1,2 @@
-my first Git repository
+my first line in the Git repository
+here is my new change
